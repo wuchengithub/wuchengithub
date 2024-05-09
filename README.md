@@ -4,7 +4,7 @@
 <span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
 https://stats.justsong.cn/api/leetcode/?username=wuchengithub&theme=dark
 
-https://stats.justsong.cn/api/juejin?id=4212984286031133
+![掘金数据](https://stats.justsong.cn/api/juejin?id=4212984286031133)
 
 <!--
 **wuchengithub/wuchengithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
