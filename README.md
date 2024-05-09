@@ -1,4 +1,3 @@
-### Hi there 👋
 ![wuchengithub's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuchengithub&show_icons=true&theme=gruvbox)
 ![掘金数据](https://stats.justsong.cn/api/juejin?id=4212984286031133)
 <!--
